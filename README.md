@@ -7,4 +7,4 @@ Your .zip package should contain index.html file and when unzipped should work i
 
 ## Ashurbanipal's game
 
-The British Museum [I am Asurbanipal, King of the World](https://www.britishmuseum.org/whats_on/exhibitions/ashurbanipal.aspx) exhibition includes the board for a game the king played, the 'Game of 58 holes'. The rules he used aren't known with certainty, but this is a JavaScript game to create a possible version. It's based on [these](https://www.tradgames.org.uk/games/Hounds-And-Jackals.htm#Rules) suggestions for possible rules for the game.
+The British Museum's 'I am Asurbanipal, King of the World' exhibition included the board for a game the king played, the 'Game of 58 holes'. The orignal rules are lost, so this is a JavaScript version based on a mix of R. C. Bell's and Dmitriy Skiryuk's reconstructions.
